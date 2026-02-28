@@ -4,8 +4,7 @@
 
 
 
-!\[Dashboard Preview](dashboard.png)
-
+<img src="dashboard.png" width="900">
 
 
 
@@ -117,4 +116,5 @@ End-to-End Data Analytics Project
 ## Author
 
 Narendra Damera
+
 
